@@ -1,0 +1,1 @@
+Place a licensed, optimized Fortuner engine + gearbox + transfer-case .glb file here. No 3D model is included yet. Removable components need separate named meshes.
